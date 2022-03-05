@@ -9,22 +9,60 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Data Science for Bussines
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+### Introducción a Data Science
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+- Introducción a Data Science
+- Metodología de Data Science
+- Privacidad y Seguridad de Datos
+- Soft Skills: Colaboración efectiva
 
-```{r cars}
-summary(cars)
-```
+### Base de Datos y Big Data
 
-## Including Plots
+- Bases de datos relacionales
+- Modelos de datos, modelo entidad – relación
+- SQL
+  DDL y DML
+- Introducción a Big Data
+- Soft Skills: Presentaciones con propósito
 
-You can also embed plots, for example:
+### Herramientas de Data Science
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+- Estadística descriptiva
+- Medidas de tendencia central
+- Medidas de dispersión
+- Visualizaciones: histogramas, gráficos de dispersión
+- Fundamentos de programación
+- Python básico y tipos de datos
+- Estructura de datos en Python
+- Introducción a R
+- Correlación y regresión
+- Análisis de datos con Python
+- Data wrangling
+- Análisis exploratorio de datos
+- Desarrollo y evaluación de modelos
+- Herramientas de Data Science en la nube
+- Soft Skills: Habilidades interpersonales
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Visualización de Datos
+
+- Visualización de datos con Python
+- Herramientas básicas, y especializadas de
+- visualización con Python
+- Matplotlib y Seaborn
+- Mapas y datos geoespaciales
+- Dashboards con Cognos
+- Soft Skills: Entregando trabajo de calidad ágilmente
+
+### Machine Learning Aplicado a Data Science
+
+- Machine Learning con Python
+- Regresión y clasificación
+- Aprendizaje no supervisado
+- Sistemas de recomendación
+- Fundamentos de Deep Learning
+- Modelos de Deep Learning
+- Plataformas y librerías de software
+- Deep Learning con TensorFlow
+- Soft Skills: Resolución de problemas con pensamiento creativo
