@@ -1,0 +1,57 @@
+---
+title: "Data-Science-for-Bussines"
+author: "Javier René Quispe Tenorio"
+date: "5/3/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Data Science for Bussines
+Introducción a Data Science
+Introducción a Data Science
+Metodología de Data Science
+Privacidad y Seguridad de Datos
+Soft Skills: Colaboración efectiva
+Base de Datos y Big Data
+Bases de datos relacionales
+Modelos de datos, modelo entidad – relación
+SQL DDL y DML
+Introducción a Big Data
+Soft Skills: Presentaciones con propósito
+Herramientas de Data Science
+Estadística descriptiva
+Medidas de tendencia central
+Medidas de dispersión
+Visualizaciones: histogramas, gráficos de dispersión
+Fundamentos de programación
+Python básico y tipos de datos
+Estructura de datos en Python
+Introducción a R
+Correlación y regresión
+Análisis de datos con Python
+Data wrangling
+Análisis exploratorio de datos
+Desarrollo y evaluación de modelos
+Herramientas de Data Science en la nube
+Soft Skills: Habilidades interpersonales
+Visualización de Datos
+Visualización de datos con Python
+Herramientas básicas, y especializadas de
+visualización con Python
+Matplotlib y Seaborn
+Mapas y datos geoespaciales
+Dashboards con Cognos
+Soft Skills: Entregando trabajo de calidad ágilmente
+Machine Learning Aplicado a Data Science
+Machine Learning con Python
+Regresión y clasificación
+Aprendizaje no supervisado
+Sistemas de recomendación
+Fundamentos de Deep Learning
+Modelos de Deep Learning
+Plataformas y librerías de software
+Deep Learning con TensorFlow
+Soft Skills: Resolución de problemas con pensamiento creativo
